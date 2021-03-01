@@ -10,7 +10,7 @@ There were 1700 recorded temperatures for June.  Temperatures ranged from a low 
 
 There were 1517 recorded temperatures for December.  Temperatures ranged from a low of 56 degrees to a high of 83 degrees.  The average temperature was 71 degrees with the majority of temperatures ranging from 69-74 degrees.  
 
-  ![June_Temperatures]()
+  ![June_Temperatures](https://github.com/laura3kids/surfs_up/blob/main/June_Temps.png)
   ![December_Temperatures]()
   
 
